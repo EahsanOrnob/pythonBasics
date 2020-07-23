@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 16 17:00:17 2020
-
-@author: User
-"""
-
 class Student:
     
     def __init__(self,name,rollno):
